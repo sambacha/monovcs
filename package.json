@@ -1,0 +1,20 @@
+{
+  "name": "vcs-utils",
+  "version": "1.0.0",
+  "description": "",
+  "files": ["module/*"],
+  "main": "module/index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "dotenv": "^16.0.0",
+    "fs-extra": "^10.0.1",
+    "lerna": "^4.0.0",
+    "lerna-alias": "^3.0.2",
+    "semver": "^7.3.5"
+  }
+}
